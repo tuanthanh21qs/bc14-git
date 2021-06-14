@@ -7,8 +7,10 @@ cách search: terminal command
 - git clone  https://github.com/tuanthanh21qs/bc14-git.git
 => Tải source code từ git hub về máy tính
 - git status
-=> kiểm tra trạng thái của các file
+=> kiểm tra trạng thái của các file có sự thay đổi
 
-- git add [File-name]
-- git add . (add all file)
+- git add [File-name/tên thư mục]
+- git add . (add all file/thư mục)
 => Xác nhận các file này sẽ được thêm mới or thay đổi
+
+-git commit -m "messanger"
