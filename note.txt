@@ -14,3 +14,7 @@ cách search: terminal command
 => Xác nhận các file này sẽ được thêm mới or thay đổi
 
 -git commit -m "messanger"
+=> commit những file đã thay đổi trên vùng staging đưa vào phân vùng local respóitory và kèm theo cột messanger
+
+- git push
+=> push những thay đổi đã commit từ local respository lên remote respository
